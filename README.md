@@ -1,7 +1,7 @@
 ### Hello World, i'm Lucas 🤘🏻
 Frontend developer, passionate about animated websites and smart designs!
 
-- 💻  I work as a intern frontend developer at codeby, coding with:<br><br>
+- 💻  Since 01/2020 i've been working building responsive webpages, focussing ecommerces. Coding with:<br><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
